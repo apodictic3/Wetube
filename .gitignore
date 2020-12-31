@@ -101,3 +101,7 @@ dist
 # FuseBox cache
 .fusebox/
 package-lock.json
+
+WeTube-note.txt
+
+.DS_Store
